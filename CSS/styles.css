@@ -1,0 +1,186 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  background-color: #d4e2d4;
+  font-size: 25px;
+  color:#0f3057;
+}
+
+hr {
+
+border-top: 10px dotted grey;
+  width: 10%;
+  border-bottom: 0px;
+}
+
+h1 {
+
+  font-family: 'Euphoria Script', cursive;
+  font-size: 5.625rem;
+  font-weight: bold;
+  color:#00587a
+
+
+}
+
+
+h2 {
+
+  font-size: 2rem;
+  font-family: 'Arvo', serif;
+  font-weight: lighter;
+  color:#00587a
+
+
+}
+
+h3 {
+  font-family: 'Arvo', serif;
+  color: #00587a
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #a6a9b6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.bottom-cloud-2 {
+  position: absolute;
+  left: 100px;
+  top: : 100px;
+}
+.profile-pic {
+  width :400px;
+  height:400px;
+  margin-top: 70px;
+}
+
+.middle-container {
+background-color: #a6a9b6;
+}
+
+.profile {
+  margin-bottom: 75px;
+}
+
+.bottom-container {
+  position: relative;
+background-color: #6155A6;
+padding: 20px 0 15px;
+
+
+}
+
+.bottom-ruler {
+  padding-bottom: 50px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.footer-cloud {
+position: absolute;
+left: 300px;
+bottom : 15px;
+}
+.footer-cloud-2 {
+  position: absolute;
+  right : 300px;
+  top : 15px;
+}
+.footer-cloud-3 {
+  position: absolute;
+  right : 400px;
+  top : 5px;
+}
+.skill-row {
+  width: 75%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.guitar-pic {
+  width: 25%;
+  float: left;
+  margin: 15px 30px auto auto;
+
+}
+.pc-pic {
+  width: 300px;
+  height: 250px;
+  float: right;
+  margin: 20px auto auto 30px;
+
+}
+.BUTTON_KGP {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 35px;
+   -moz-border-radius: 35px;
+   border-radius: 35px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 250px;
+   font-size: 29px;
+   font-weight: 300;
+   padding: 1px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 55px 44px 49px #000000;
+   border: solid #337FED 14px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 25px;
+}
+
+.BUTTON_KGP:hover {
+   border: solid #337FED 13px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #A5C4E7);
+   background-image: -moz-linear-gradient(top, #1E62D0, #A5C4E7);
+   background-image: -ms-linear-gradient(top, #1E62D0, #A5C4E7);
+   background-image: -o-linear-gradient(top, #1E62D0, #A5C4E7);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #A5C4E7);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer {
+font-family: 'Euphoria Script', cursive;
+font-weight: bolder;
+
+}
+a {
+color: #0f0f0f;
+text-decoration: none;
+}
+a:hover {
+  color: #E6E6E6;
+}
